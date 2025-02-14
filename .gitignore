@@ -37,3 +37,6 @@ benchmarks/graphs
 *.njsproj
 *.sln
 *.sw?
+
+
+.env
